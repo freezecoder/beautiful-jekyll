@@ -1,9 +1,18 @@
 ---
 layout: post
 title: Freezecoder says hello
-tags: [de, random]
+tags:
+  - de
+  - random
+published: true
+date: '2017-02-02'
+subtitle: Some new
 ---
 
-## Hi
+Some new content
 
-A new Hello world
+# SIGNIFICANCE PLOTS
+
+## TCGA Significance Score Comparison  {.tabset }
+
+### Adeno 2014, Nature
